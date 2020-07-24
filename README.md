@@ -1,3 +1,2 @@
 # Data Science BootCamp Capstone-project
-This analysis offers you some insight into where to find exotic resturants to eat, especially for new comer to the City of Toronto.
-I have prepared a detailed report on each neighborhoods in the city, and hopefully it would be helpful for you. 
+For New immigrants and families interested in Toronto as a place to live, and would like to find cultureal/entertainment opportunities and establishment(restaurants, museums, parks, etc) best suited for their own needs, this analysis will attempt to find things to do for new comers in Toront that have a relatively high number of venues. 
